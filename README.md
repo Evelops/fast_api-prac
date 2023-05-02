@@ -33,6 +33,7 @@ $ docker run --rm -p 8080:80 fast-api #contianer stop -> container 제거,  8080
 ### Docker compose start
 ```bash
 $ docker-compose up
+$ docker-compose up --build --force-recreate # rebuild
 ```
 
 
