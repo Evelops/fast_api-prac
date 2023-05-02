@@ -1,2 +1,8 @@
 uvicorn
 fastapi
+boto3
+SQLAlchemy
+pydantic
+gensim
+PyJWT
+python-jose
