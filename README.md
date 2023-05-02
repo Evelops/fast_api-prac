@@ -19,8 +19,8 @@ $ uvicorn main:app --reload
 
 #### docs
 ```vim
-serverhost/docs -> swagger docs
-serverhost/redoc -> auto docs 
+serverhost/docs  #swagger docs
+serverhost/redoc # auto docs 
 ```
 
 
