@@ -6,3 +6,4 @@ pydantic
 gensim
 PyJWT
 python-jose
+pandas
