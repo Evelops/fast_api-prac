@@ -7,3 +7,5 @@ gensim
 PyJWT
 python-jose
 pandas
+python-dotenv
+joblib
